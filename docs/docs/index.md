@@ -4,9 +4,12 @@
 
 ## Team Member
 
-[[https://codeforces.com/profile/Morishima_Haruka|韩承志]]
-[[https://codeforces.com/profile/iwanna|刘雄]]
-[[https://codeforces.com/profile/fjkpwm|蒋士鹏]]
+[韩承志](https://codeforces.com/profile/Morishima_Haruka)
+[刘雄](https://codeforces.com/profile/iwanna) 
+
+[蒋士鹏](https://codeforces.com/profile/fjkpwm)
 	
+
 ## Trainings
-[[https://ac.nowcoder.com/acm/contest/vip-index|个人训练]]
+[个人训练](https://ac.nowcoder.com/acm/contest/vip-index)
+
